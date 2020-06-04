@@ -18,7 +18,7 @@ console.log('Conexión con Mongo exitosa');
 })
 .catch(err=> console.log(err));
 app.listen(port,()=>{
-console.log('Escuchando el puerto 3000');
+console.log('Escuchando el puerto tpc 3000');
 });
 
 
